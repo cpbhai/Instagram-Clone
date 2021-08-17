@@ -15,3 +15,5 @@ A web App which has some features of instagram web, and almost same User Interfa
 > 1. User can **create, delete, update, like, unlike a post**.
 > 2. User can search the other users.
 > 3. User can **add comment also**
+> 4. User can **follow/unfollow** a user.
+> 5. User sees the feed having posts of the people, use follows.
